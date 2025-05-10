@@ -1,0 +1,20 @@
+body {
+  background: #213448;
+}
+
+.todo-container {
+  min-height: 100vh;
+}
+
+.list-bg {
+  background: #547792;
+}
+
+.accordion-item {
+  background: #ecefca;
+}
+
+.quest-name {
+  background: #27548a;
+  border-radius: 20px;
+}

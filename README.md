@@ -52,7 +52,7 @@ npm run dev
 ```
 
 ## 技術使用
--React
--Zustand
--Vite
--Bootstrap 5
+- React
+- Zustand
+- Vite
+- Bootstrap 5

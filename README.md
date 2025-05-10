@@ -2,6 +2,8 @@
 
 一個使用 React + Zustand 建立的 Todo List 應用程式，支援任務新增、編輯、刪除、完成狀態切換、留言功能與搜尋功能。
 
+![Demo 圖片](https://i.postimg.cc/RV95x1TL/2025-05-10-093612.png)
+
 [Demo 頁面](https://s4chan.github.io/zustand-todolist/)
 
 ---
